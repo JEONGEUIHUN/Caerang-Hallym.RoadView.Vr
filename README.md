@@ -26,7 +26,7 @@
 ### Web서버에 올린 Unity(http://caerang.hallym.ac.kr/vr/index.html)
 
 <div>
-<img width = "600" src = "https://user-images.githubusercontent.com/58055104/100534621-4028f600-3254-11eb-88e8-25936242dfe8.png">
-<img width ="600" src = "https://user-images.githubusercontent.com/58055104/100530191-21b20300-3232-11eb-9ba5-d924a6d0566e.png" >
+<img width = "300" src = "https://user-images.githubusercontent.com/58055104/100534621-4028f600-3254-11eb-88e8-25936242dfe8.png">
+<img width ="300" src = "https://user-images.githubusercontent.com/58055104/100530191-21b20300-3232-11eb-9ba5-d924a6d0566e.png" >
 </div>
 --------------------------
