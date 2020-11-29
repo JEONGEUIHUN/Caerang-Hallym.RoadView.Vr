@@ -24,6 +24,6 @@
 화면에 보여줌으로써 알게 될 것 입니다. 신입생은 물론 재학생까지 가보지 못한 길, 예상치 못한 곳에 길이 있는 것 등 알려드리기 위해 구현했습니다. VR장비가 없으신 분들은 Web서버 주소를 통해 Unity 프로젝트를 올려서 누구나 접속이 가능 하도록 구현했습니다.
 
 ### Web서버에 올린 Unity
-<img width ="200" src = "https://user-images.githubusercontent.com/58055104/100530191-21b20300-3232-11eb-9ba5-d924a6d0566e.png" >
+<img width ="600" src = "https://user-images.githubusercontent.com/58055104/100530191-21b20300-3232-11eb-9ba5-d924a6d0566e.png" >
 
 --------------------------
