@@ -62,4 +62,4 @@
 
 ## 시연영상
 
-> 시연영상만 넣으면 될듯 함
+> https://youtu.be/hZwwqKXLcok
