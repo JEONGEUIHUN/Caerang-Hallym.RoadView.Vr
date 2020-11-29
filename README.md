@@ -4,7 +4,8 @@
 1. 팀원소개
 2. 개발하게 된 이유
 3. 개발환경 및 작품 설명
-4. 
+4. 어려웠던 점
+5. 시연영상
 --------------------------
 
 ## 팀원 소개
@@ -29,5 +30,7 @@
 ### Web서버에 올린 Unity(http://caerang.hallym.ac.kr/vr/index.html)
 <img width ="500" src = "https://user-images.githubusercontent.com/58055104/100530191-21b20300-3232-11eb-9ba5-d924a6d0566e.png" >
 
-
 --------------------------
+
+## 어려웠던 점
+1. 촬영
