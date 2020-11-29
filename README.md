@@ -32,7 +32,7 @@
 <img width ="500" src = "https://user-images.githubusercontent.com/58055104/100530191-21b20300-3232-11eb-9ba5-d924a6d0566e.png" >
 
 ### 촬영 지점 표시한 학교 지도
-<img width = "500" src= "https://github.com/JEONGEUIHUN/Caerang-Hallym.RoadView.Vr/files/5611777/default.pdf">
+<img width = "500" src= "https://user-images.githubusercontent.com/58055104/100536144-d0ba0300-3261-11eb-9775-4a520dd45257.jpg">
 --------------------------
 
 ## 고려해야 했던 점
